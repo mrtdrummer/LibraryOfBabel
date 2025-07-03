@@ -1,3 +1,6 @@
+# this version is incomplete and contain several bugs - check for the newest release for best quality 
+
+ 
  Welcome to the Library of Babel!
 
 # Library of Babel Simulator  A virtual recreation of Jorge Luis Borges’ "Library of Babel" using Python.
